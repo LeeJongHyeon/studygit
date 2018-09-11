@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="./bootstrap/bootstrap.css">
 </head>
 <body>
-<form name="myform" method="get" action="" onsubmit=" ;return false;">
+<form name="myform" method="put" action="" onsubmit=" ;return false;">
 		<table>
 			<tr>
 				<th>ID</th>
